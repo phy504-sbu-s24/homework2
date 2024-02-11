@@ -1,6 +1,6 @@
 # Homework #2
 
-### due: Friday Feb 18, 2022
+### due: Monday Feb 19, 2024
 
 > Each student is responsible for doing their own work.  You are welcome to
 > discuss this on slack or in class, but when it comes to writing the code,
