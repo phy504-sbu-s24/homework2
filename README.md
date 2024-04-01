@@ -27,7 +27,7 @@
    std::vector<double> vec{0.1, 10.0, -2.9, 5, 12.2, 0.0, -103.2};
    ```
 
-   Let's see how to use some of the functions in the `algorithms` header.
+   Let's see how to use some of the functions in the `algorithm` header.
 
    Write a code to create this vector and then loop over elements to find
    the maximum element in the vector.  Do the same to find the minimum
